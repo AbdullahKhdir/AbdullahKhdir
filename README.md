@@ -45,3 +45,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahkhdir&" alt="abdullahkhdir" /></p>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahKhdir&theme=github)
