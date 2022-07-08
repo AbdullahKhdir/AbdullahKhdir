@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khdir</h1>
 <h3 align="center">A syrian passionate full stack developer from Germany</h3>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+It's+Abdullah!;I'm+a+Full+Stack+,+&+Software+Developer)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkhdir&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahkhdir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahkhdir" alt="abdullahkhdir" /></a> </p>
