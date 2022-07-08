@@ -6,11 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkhdir&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahkhdir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahkhdir" alt="abdullahkhdir" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbdullahKhdir&theme=monokai	)](https://github.com/AbdullahKhdir/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahKhdir&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahKhdir&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdullahKhdir&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdullahKhdir&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdullahKhdir&theme=monokai&utcOffset=8)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🔭 I’m currently working in Telecom on big Tool called [Organizing, managing, archiving and arranging company contracts](https://myshs24.telekom.de/)
+- 🔭 I’m currently working in Telecom on Tool for [Organizing, managing, archiving and arranging company contracts](https://myshs24.telekom.de/)
 
 - 🌱 I’m currently learning and building a Framework using Node & Express JS **Express, Node JS**
 
@@ -52,10 +51,6 @@
 
 
 
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbdullahKhdir&theme=monokai	)](https://github.com/AbdullahKhdir/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahKhdir&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahKhdir&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdullahKhdir&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdullahKhdir&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdullahKhdir&theme=monokai&utcOffset=8)
 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
