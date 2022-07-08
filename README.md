@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=889023&lines=Hey+it's+Abdullah!;I'm+a+Full+Stack+%26+Software+Developer)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkhdir&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahkhdir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkhdir&label=Profile%20views&color=0f89d6&style=flat" alt="abdullahkhdir" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbdullahKhdir&theme=monokai	)](https://github.com/AbdullahKhdir/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahKhdir&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahKhdir&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdullahKhdir&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdullahKhdir&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdullahKhdir&theme=monokai&utcOffset=8)
 
