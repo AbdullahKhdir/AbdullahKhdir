@@ -46,3 +46,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahkhdir&show_icons=true&locale=en" alt="abdullahkhdir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahkhdir&" alt="abdullahkhdir" /></p>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhdir&layout=compact)](https://github.com/AbdullahKhdir)
+
