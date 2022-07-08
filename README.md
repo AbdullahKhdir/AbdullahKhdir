@@ -48,5 +48,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahkhdir&" alt="abdullahkhdir" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhdir&langs_count=10)](https://github.com/AbdullahKhdir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)](https://github.com/AbdullahKhdir/github-readme-stats)
 
