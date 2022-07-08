@@ -2,7 +2,7 @@
 <h3 align="center">A syrian passionate full stack and software developer from Germany</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=889023&lines=Hey+it's+Abdullah!;I'm+a+Full+Stack+%26+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=6dc706&lines=Hey+it's+Abdullah!;I'm+a+Full+Stack+%26+Software+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkhdir&label=Profile%20views&color=081402&style=flat" alt="abdullahkhdir" /> </p>
 
