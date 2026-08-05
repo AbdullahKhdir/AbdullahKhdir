@@ -33,9 +33,9 @@
 
 🤝 I’m looking for help with building an infrastructure (Framework) using Node JS Technology Node JS
 
-👨‍💻 All of my projects are available at https://github.com/AbdullahKhdir
+👨‍💻 All of my projects are available at <a href="https://github.com/AbdullahKhdir" target="blank">Github Projects</a>
 
-📝 I regularly fork interesting projects https://github.com/AbdullahKhdir?tab=repositories&q=&type=fork&language=&sort=
+📝 I regularly fork interesting projects <a href="https://github.com/AbdullahKhdir?tab=repositories&q=&type=fork&language=&sort=" target="blank">Forked projects</a>
 
 💬 Ask me about React, PHP (Laravel), Node, Express, Java (Swing), C++, C# (WPF)
 
