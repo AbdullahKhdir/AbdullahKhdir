@@ -33,6 +33,8 @@
 
 🤝 I’m looking for help with building an infrastructure (Framework) using Node JS Technology Node JS
 
+🦊 Most of my current development work is hosted in private Forgejo repositories: [View my Forgejo profile](https://git.abdullahkhdir.me/abdullahkhdir/)
+
 👨‍💻 All of my projects are available at <a href="https://github.com/AbdullahKhdir" target="blank">Github Projects</a>
 
 📝 I regularly fork interesting projects <a href="https://github.com/AbdullahKhdir?tab=repositories&q=&type=fork&language=&sort=" target="blank">Forked projects</a>
