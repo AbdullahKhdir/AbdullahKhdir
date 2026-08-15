@@ -9,20 +9,6 @@
         />
     </a>
 </div>
-
-<div align="center">
-    <p>
-        <img
-            src="https://komarev.com/ghpvc/?username=abdullahkhdir&label=Profile%20views&color=081402&style=flat"
-            alt="Profile views"
-        />
-    </p>
-    <p>
-        <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahkhdir&theme=monokai"
-            alt="GitHub streak stats"
-        />
-    </p>
 </div>
 
 🔭 I’m currently working in Telecom on Tool for Organizing, managing, archiving and arranging company contracts
