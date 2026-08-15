@@ -19,13 +19,6 @@
     </p>
 </div>
 
-<p>
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahkhdir&theme=monokai"
-        alt="GitHub streak stats"
-    />
-</p>
-
 🔭 I’m currently working in Telecom on Tool for Organizing, managing, archiving and arranging company contracts
 
 🌱 I’m currently learning and building a Framework using Node & Express JS Express, Node JS
